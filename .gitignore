@@ -1,0 +1,8 @@
+*.dll
+/HelloCakeExperiment/.vs/
+/HelloCakeExperiment/bin/
+*.dll
+obj/
+*.pdb
+*.exe
+/HelloCakeExperiment/packages/

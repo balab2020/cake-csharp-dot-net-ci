@@ -1,0 +1,1 @@
+powershell -ExecutionPolicy ByPass -File build.ps1 -script ".\build.cake" -target "Default" -verbosity normal
